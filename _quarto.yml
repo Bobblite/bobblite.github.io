@@ -3,17 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "blog"
+  title: "Bobblite"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/Bobblite
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ming-yang-lee-0859a3143/
 format:
   html:
-    theme: spacelab
+    theme: simplex
     css: styles.css
 
 

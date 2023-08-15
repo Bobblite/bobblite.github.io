@@ -3,13 +3,13 @@ project:
   output-dir: docs  
 
 website:
-  title: "blog"
+  title: "Bobblite"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
+        href: https://github.com/Bobblite
+      - icon: linkedin
         href: https://twitter.com
 format:
   html:
